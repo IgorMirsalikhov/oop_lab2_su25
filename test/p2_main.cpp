@@ -35,4 +35,3 @@ int main(void) {
     // program executed successfully
     return 0;
 }
-i
